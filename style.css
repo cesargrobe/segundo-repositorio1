@@ -23,6 +23,7 @@ body {
 .estudante-icone {
     width: 50px;
     padding: 4px 8px;
+    list-style-type: none;
 }
 
 h1, h2, h3 {
